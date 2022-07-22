@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GIRIDHARAN
-- 👀 I’m interested in java coding and im learning too
-- 🌱 I’m currently learning advance java
+- 👀 I’m interested in Web development and im learning too
+- 🌱 I’m currently React js
 - 💞️ I’m looking to work on IT field
 - 📫 How to reach me ...
 
